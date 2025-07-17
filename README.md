@@ -1,17 +1,5 @@
 # CHAT-APPLICATION
 
-Company: CODTECH IT SOLUTIONS
-
-Intern Name: Akash Raj L
-
-Intern ID: CT12VXZ
-
-Domain: Full Stack Web Development
-
-Duration: 8 Weeks
-
-Mentor: Neela Santosh Kumar
-
 Description : 
 
 📌 Project Overview
